@@ -1,5 +1,5 @@
 # Decision-Trees-and-Regression
-Implementing Decision Trees and Regression from scratch
+Implementing Decision Trees and Regression from scratch. Decision Trees Question: There are multiple features... which feature do we split on? AND where do we split in this feature? - These questions were answered in the form of python functions in the assigmnet. Regression: This is a minimization problem (how well can we model the data while minimizing the error on the data set?). 
 
 # Description
 This is a Machine Learning homework assignment.
